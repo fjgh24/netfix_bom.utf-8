@@ -49,3 +49,6 @@ The script contains Chinese text
 
 ## 注意事项
 脚本含中文
+
+The content of readme.md is created by AI. 
+Note, currently only netfix_ansi002.bat can be used normally. If the encoding is UTF-8, it needs to be saved as ANSI encoding.
